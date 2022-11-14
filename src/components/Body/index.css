@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.body-container{
+    display: flex;
+    width: 70%;
+}
+.show-left{
+    display: block;
+}
+.show-content{
+    display: block;
+}
+.show-right{
+    display: block;
+}
+
+.hide-left{
+    display: none;
+}
+.hide-content{
+    display: none;
+}
+.hide-right{
+    display: none;
+}
